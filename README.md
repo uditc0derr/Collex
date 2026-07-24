@@ -1,4 +1,4 @@
-# 9Drive
+# Collex
 
 Unified virtual cloud storage for organizing multiple Google Drive accounts from one dashboard.
 
